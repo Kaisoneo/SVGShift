@@ -4,7 +4,7 @@ This is a simple, browser-based tool that allows users to convert SVG files to P
 
 ## Live Demo
 
-Visit the online converter at: [convert.synergize.co](https://convert.synergize.co)
+Visit the online converter at: [svgshift.netlify.app](https://svgshift.netlify.app)
 
 ## Features
 
@@ -18,7 +18,7 @@ Visit the online converter at: [convert.synergize.co](https://convert.synergize.
 
 ## How to Use
 
-1. Visit [convert.synergize.co](https://convert.synergize.co) or open the `index.html` file in a web browser
+1. Visit [svgshift.netlify.app](https://svgshift.netlify.app) or open the `index.html` file in a web browser
 2. Click on "Select SVG File" to upload your SVG file
 3. Adjust the PNG width and height as needed
 4. Check or uncheck "Maintain Aspect Ratio" as desired
