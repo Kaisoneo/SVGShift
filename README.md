@@ -37,5 +37,5 @@ Visit the online converter at: [convert.synergize.co](https://convert.synergize.
 No special setup is required. Simply clone the repository and open the `index.html` file in a modern web browser.
 
 ```bash
-git clone https://github.com/Kaisoneo/svg-to-png-converter.git
-cd svg-to-png-converter
+git clone https://github.com/Kaisoneo/SVGShift.git
+cd SVGShift
